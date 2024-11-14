@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [react-native-qr-code](modules/qr-code)
 - [django-contact-us](backend/modules)
+- [django-core](backend/modules)
 
 # Getting started: Frontend
 
